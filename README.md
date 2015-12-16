@@ -64,7 +64,7 @@
 ###  git branch --merged
 ###  git branch --no-merged
 ## 2.19 Arreglar el conflicto anterior y hacer un commit
-    El conflicto que ha dado es Already up-to-date
+#### El conflicto que ha dado es Already up-to-date
 ## 2.20 Borrar rama
 ###   1. Crear un tag V0.2
 ####    git tag -a V0.2 -m "Crear tag v0.2"
@@ -74,5 +74,11 @@
 ###   1. Poner una foto en el perfil de GITHUB
 ####    Hecho
 ###   2. Poner el doble factor de autentificación en la cuenta de GITHUB
-#### 
+####    Hecho
+###   3. Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador
+####    Hecho durante la sesión de clase
+## 2.23 Uso social de GITHUB
+###   1. Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles
+####    Hecho
+###   2. 
 
