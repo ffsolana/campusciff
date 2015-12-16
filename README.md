@@ -92,4 +92,7 @@
 | Julián Gómez           | http://github.com/CIFFjuliangomez    |
 ## 2.25 COLABORADORES
 ###   1. Poner a github.com/asanzdiego como colaborador del repositorio campusciff
-#### 
+####    Hecho
+## 2.26 Crear Organización
+###   1. Crear una organización llamada campusciff-tunombredeusuariodegithub
+
