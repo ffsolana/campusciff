@@ -80,5 +80,16 @@
 ## 2.23 Uso social de GITHUB
 ###   1. Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles
 ####    Hecho
-###   2. 
-
+###   2. Seguir los repositorios campusciff del resto de tus compañeros
+####    Hecho
+###   3. Añadir una estrella a los repositorios campusciff del resto de tus compañeros
+####    Hecho
+## 2.24 Crear una tabla
+|        *NOMBRE*        |             CUENTA GITHUB            |
+| ---------------------- | ------------------------------------ |
+| Carlos Paz             | http://github.com/cpazsantos         |
+| Pablo Suarez           | https://github.com/pablosuarezmanjon |
+| Julián Gómez           | http://github.com/CIFFjuliangomez    |
+## 2.25 COLABORADORES
+###   1. Poner a github.com/asanzdiego como colaborador del repositorio campusciff
+#### 
