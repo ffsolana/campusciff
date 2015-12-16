@@ -99,4 +99,6 @@
 ## 2.27 Crear equipos
 ###   1. Crear 2 equipos en la organización campusciff-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos
 ####    Hecho
-
+###   2. Meter a github.com/asanzdiego y a 2 de vuestros compañeros de clase en el equipo administradores
+####    Hecho
+###   3. Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores
