@@ -1,6 +1,6 @@
 # REPOSITORIO CAMPUSCIFF
 ## 2.1 Crear un repositorio en vuestro GitHub llamado campusciff
-![imagen repositorio](C:\Users\NENITOS\Searches\Pictures\IMG_1279.jpg)
+![imagen repositorio] (C:\Users\NENITOS\Desktop\IMG_20150517_225815.jpg)
 ##2.2 Clonar el repositorio en local
 ###   git clone git@github.com:ffsolana/campusciff.git
 ## 2.3 Crear (si no lo habéis creado ya) en vuestro repositorio local un documento README.md
@@ -70,5 +70,9 @@
 ####    git tag -a V0.2 -m "Crear tag v0.2"
 ###   2. Borrar rama Vo.2
 ####    git branch -d V0.2
-
+## 2.22 Cuenta de GITHUB
+###   1. Poner una foto en el perfil de GITHUB
+####    Hecho
+###   2. Poner el doble factor de autentificación en la cuenta de GITHUB
+#### 
 
