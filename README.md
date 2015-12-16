@@ -98,4 +98,5 @@
 ####    Hecho
 ## 2.27 Crear equipos
 ###   1. Crear 2 equipos en la organización campusciff-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos
-####    
+####    Hecho
+
