@@ -1,6 +1,6 @@
 # REPOSITORIO CAMPUSCIFF
 ## 2.1 Crear un repositorio en vuestro GitHub llamado campusciff
-![imagen repositorio] (C:\Users\NENITOS\Desktop\IMG_20150517_225815.jpg)
+![imagen repositorio] (C:\Users\NENITOS\Desktop\Crear repositorio.png)
 ##2.2 Clonar el repositorio en local
 ###   git clone git@github.com:ffsolana/campusciff.git
 ## 2.3 Crear (si no lo habéis creado ya) en vuestro repositorio local un documento README.md
